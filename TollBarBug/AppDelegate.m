@@ -22,4 +22,7 @@
     // Insert code here to tear down your application
 }
 
+- (IBAction)toolbarAction:(id)sender {
+    NSLog(@"dasdad");
+}
 @end
